@@ -44,6 +44,8 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+
+        <finalName>github-action-test</finalName>
     </build>
 
 </project>
